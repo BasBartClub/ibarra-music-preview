@@ -1,0 +1,36 @@
+replay-01.m4a <- youtu.be/B3iHsfPXDSc @15s  Jarno Ibarra – Always on My Mind
+replay-02.m4a <- youtu.be/IK5ejnLCdV0 @15s  Jarno Ibarra – I Want It That Way
+replay-03.m4a <- youtu.be/us9Ud4-jpJ4 @15s  Jarno Ibarra – Liefs uit London
+replay-04.m4a <- youtu.be/8eMI1Ikuy3Q @15s  Jarno & Ama – I Just Called to Say I Love You
+replay-05.m4a <- youtu.be/P1KRbMJH5YQ @15s  Jarno & Ama – Lovely Day
+replay-06.m4a <- youtu.be/pMmNtGhJqS4 @15s  Jarno & Ama – Rain Down On Me
+replay-07.m4a <- youtu.be/B3iHsfPXDSc @38s  Jarno Ibarra – Always on My Mind
+replay-08.m4a <- youtu.be/IK5ejnLCdV0 @38s  Jarno Ibarra – I Want It That Way
+replay-09.m4a <- youtu.be/us9Ud4-jpJ4 @38s  Jarno Ibarra – Liefs uit London
+replay-10.m4a <- youtu.be/8eMI1Ikuy3Q @38s  Jarno & Ama – I Just Called to Say I Love You
+replay-11.m4a <- youtu.be/P1KRbMJH5YQ @38s  Jarno & Ama – Lovely Day
+replay-12.m4a <- youtu.be/pMmNtGhJqS4 @38s  Jarno & Ama – Rain Down On Me
+replay-13.m4a <- youtu.be/B3iHsfPXDSc @61s  Jarno Ibarra – Always on My Mind
+replay-14.m4a <- youtu.be/IK5ejnLCdV0 @61s  Jarno Ibarra – I Want It That Way
+voice-01.m4a <- youtu.be/us9Ud4-jpJ4 @61s  Jarno Ibarra – Liefs uit London
+voice-02.m4a <- youtu.be/8eMI1Ikuy3Q @61s  Jarno & Ama – I Just Called to Say I Love You
+voice-03.m4a <- youtu.be/P1KRbMJH5YQ @61s  Jarno & Ama – Lovely Day
+voice-04.m4a <- youtu.be/pMmNtGhJqS4 @61s  Jarno & Ama – Rain Down On Me
+voice-05.m4a <- youtu.be/B3iHsfPXDSc @84s  Jarno Ibarra – Always on My Mind
+voice-06.m4a <- youtu.be/IK5ejnLCdV0 @14s  Jarno Ibarra – I Want It That Way
+voice-07.m4a <- youtu.be/us9Ud4-jpJ4 @84s  Jarno Ibarra – Liefs uit London
+voice-08.m4a <- youtu.be/8eMI1Ikuy3Q @84s  Jarno & Ama – I Just Called to Say I Love You
+voice-09.m4a <- youtu.be/P1KRbMJH5YQ @9s  Jarno & Ama – Lovely Day
+voice-10.m4a <- youtu.be/pMmNtGhJqS4 @7s  Jarno & Ama – Rain Down On Me
+voice-11.m4a <- youtu.be/B3iHsfPXDSc @107s  Jarno Ibarra – Always on My Mind
+voice-12.m4a <- youtu.be/IK5ejnLCdV0 @37s  Jarno Ibarra – I Want It That Way
+voice-13.m4a <- youtu.be/us9Ud4-jpJ4 @107s  Jarno Ibarra – Liefs uit London
+voice-14.m4a <- youtu.be/8eMI1Ikuy3Q @8s  Jarno & Ama – I Just Called to Say I Love You
+voice-15.m4a <- youtu.be/P1KRbMJH5YQ @32s  Jarno & Ama – Lovely Day
+voice-16.m4a <- youtu.be/pMmNtGhJqS4 @30s  Jarno & Ama – Rain Down On Me
+voice-17.m4a <- youtu.be/B3iHsfPXDSc @130s  Jarno Ibarra – Always on My Mind
+voice-18.m4a <- youtu.be/IK5ejnLCdV0 @60s  Jarno Ibarra – I Want It That Way
+voice-19.m4a <- youtu.be/us9Ud4-jpJ4 @19s  Jarno Ibarra – Liefs uit London
+voice-20.m4a <- youtu.be/8eMI1Ikuy3Q @31s  Jarno & Ama – I Just Called to Say I Love You
+voice-21.m4a <- youtu.be/P1KRbMJH5YQ @55s  Jarno & Ama – Lovely Day
+voice-22.m4a <- youtu.be/pMmNtGhJqS4 @53s  Jarno & Ama – Rain Down On Me
